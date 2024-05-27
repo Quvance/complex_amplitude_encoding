@@ -1,7 +1,15 @@
-This is a retricted license which grants free use to smaller companies and individuals.
+This is a retricted license which grants free use to smaller companies, non-profits, academic institutions and individuals subject to the below limitations.
 
-However, a one off licence fee is applicable for the use of this software by a company
-with a market size of $xxx or valuation of $xxxx. 
+This software is free to use for individual users not affiliated with any particular organisation or those working only for academic institutions or only for non-profit organisations.
+If their work is jointly undertaking with a company or a start-up or there is a signficant element of colloboration then the below limitations apply, and the value of their commercial partner is determining the applicability of the fee.
+
+A one off licence fee is applicable for use of this software by
+a publicly listed company with a market size of over $1 Mio
+,a start-up with a valuation of over $1 Mio
+,or a private-held company valued as over $1Mio based on comparable EBITDA or enterprise multiples applied to their publicly-listed competitor or other metrics used to compare companies within a sector
+,for a smaller company which is majority-owned by a larger entity or is a subsidiary of such the applicable fee is based on the value of the parent or majority share owner.
+
+The applicable one-off fee is £100,000. Payments terms are negotiable and can be in cash or equity subject to agreement. Please contact info@quvance.com to negotiate terms.
 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
@@ -11,5 +19,3 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
